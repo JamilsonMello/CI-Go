@@ -34,4 +34,4 @@ jobs:
         uses: docker/build-push-action@v2
         with: 
           push: true
-          tags: jamilson-images/ci-with-golang:latest
+          tags: jamilson/ci-with-golang:latest
